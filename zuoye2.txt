@@ -1,0 +1,6 @@
+import requests
+a = requests.get('http://news.baidu.com/')
+import re
+content = a.text
+res = re.findall('<a href=(\".*?\")',content,re.S)
+print(res)
