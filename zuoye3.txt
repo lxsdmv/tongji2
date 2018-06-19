@@ -1,0 +1,16 @@
+import requests
+res = requests.get('http://www.17k.com/list/2822387.html')
+from lxml import etree
+tree = etree.HTML(res.text)
+a_list = tree.xpath('//div[@class="Main List"]/dl[@class="Volume"]/dd/a')
+for i in a_list:
+    href = i.xpath('./@href')[0]
+    a = 'http://www.17k.com'
+    b = a + href
+
+response = requests.get(b)
+tree2 = etree.HTML(response.text)
+b_list = tree2.xpath('//div[@class="area"]/div[@class="read"]/div[@class="readArea"]/div[@class="readAreaBox content"]')
+for i in b_list:
+    href2 = i.xpath('./div[@class="p"]')[0]
+    print(href2)
