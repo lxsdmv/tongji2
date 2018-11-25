@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>知乎-有问题上知乎</title>
+    <style>
+        a {
+            text-decoration: none
+        }
+    </style>
+</head>
+<body style="background-size: cover"
+      background="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543144413416&di=1d26cf29f68dc3f9ca20735f79edfe9f&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F3%2F59a4cfa35bf5b.jpg">
+<br>
+<br>
+<br>
+<table style="background-color: white;border-color: none;width: 12cm;height: 11cm" align="center" valign="center">
+    <tr>
+        <td>
+            <div style="text-align: center">
+                <img src="微信图片_20181125182131.png"><br><br>
+                <img src="微信图片_20181125183210.png">
+            </div>
+            <br>
+            <div style="text-align: center">
+                <select style="border: none;font-size: 15px;color: #878787">
+                    <option>中国 +86</option>
+                    <option>美国 +1</option>
+                    <option>日本 +81</option>
+                    <option>中国香港 +852</option>
+                    <option>中国台湾 +886</option>
+                    <option>马来西亚 +60</option>
+                    <option>澳大利亚 +61</option>
+                    <option>加拿大 +1</option>
+                </select>
+                <input type="text" placeholder="手机号" style="border: none;font-size: 15px"/>
+                <br>
+                <hr style="width: 8.5cm;color: #CFCFCF">
+                </hr>
+                <input type="password" placeholder="输入6位短信验证码"
+                                                                 style="border: none;font-size: 15px"/>
+                <input type="button" value="获取短信验证码"
+                       style="background-color: white;border: none;font-size: 15px;color: #878787"/>
+                <hr style="width: 8.5cm;color: #CFCFCF">
+                </hr>
+                <div style="text-align: center">
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input
+                        type="button" value="接收语音验证码"
+                        style="border: none;background-color: white;font-size: 15px;color: #878787"/>
+                </div>
+                <br>
+                <input type="submit" value="注册"
+                       style="width: 10cm;height: 1cm;color: white;background-color: #4876FF;font-size: 15px;border: none"/>
+                </form>
+                <br>
+                <br>
+                <span style="font-size: 15px;color: #878787">注册即代表同意
+<a href="https://www.zhihu.com/terms" style="color: #878787">《知乎协议》</a>
+<a href="https://www.zhihu.com/term/privacy" style="color: #878787">《隐私保护指导》</a>
+<a href="https://www.zhihu.com/term/privacy" style="color: #27408B">注册机构</a>
+        </td>
+    </tr>
+</table>
+<div style="text-align: center">
+    <table style="background-color: #F2F2F2;width: 12cm;height: 1.5cm" align="center" valign="center">
+        <tr>
+            <td>
+                <span style="font-size: 15px">已有账号？
+    <input type="button" value="登录" style="border: none;background-color: #F2F2F2;font-size: 15px;color: #27408B"/>
+                </span>
+
+
+                </span>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<br>
+<input type="button" value="下载知乎 App"
+       style="color: white;background-color: #838B8B;width: 12cm;height: 1cm;border: none;font-size: 15px"/>
+<br>
+<br>
+<br>
+<div style="font-size: 8px">
+    <a href="https://zhuanlan.zhihu.com" style="color: white">知乎专栏&nbsp;·</a>
+    <a href="https://www.zhihu.com/roundtable" style="color: white">圆桌&nbsp;·</a>
+    <a href="https://www.zhihu.com/explore" style="color: white">发现&nbsp;·</a>
+    <a href="https://www.zhihu.com/app" style="color: white">移动应用&nbsp;·</a>
+    <a href="https://www.zhihu.com/contact" style="color: white">联系我们&nbsp;·</a>
+    <a href="https://app.mokahr.com/apply/zhihu" style="color: white">来知乎工作&nbsp;·</a>
+    <a href="https://www.zhihu.com/org/signup" style="color: white">注册机构号</a><br><br>
+    <span style="font-size: 8px;color: white">? 2018 知乎&nbsp;·</span>
+    <a href="http://www.miibeian.gov.cn/" style="color: white">京 ICP 证 110745 号&nbsp;·</a>
+    <span style="color: white">京公网安备 11010802010035 号<a
+            href="https://zhstatic.zhihu.com/assets/zhihu/publish-license.jpg" style="color: white">出版物经营许可证</a> </span><br><br>
+    <a href="https://zhuanlan.zhihu.com/p/28852607" style="color: white">侵权举报&nbsp;·</a>
+    <a href="http://www.12377.cn" style="color: white">网上有害信息举报专区&nbsp;·</a>
+    <a href="https://www.zhihu.com/jubao" style="color: white">儿童色情信息举报专区&nbsp;·</a>
+    <span style="font-size: 8px;color: white">违法和不良信息举报：010-82716601</span>
+</div>
+<hr style="width: 10cm">
+</hr>
+<a href="https://credit.szfw.org/CX20170607038331320388.html" style="color: white;font-size: 9px">诚信网站示范企业</a>
+</body>
+</html>
